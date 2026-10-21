@@ -1,0 +1,9 @@
+.p1 {
+    margin: 20px 50px;
+}
+
+body {
+    /* background-color: aqua; */
+    background-image: url(beachsand.png);
+    background-size: cover;
+}
